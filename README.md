@@ -25,7 +25,7 @@
 
 
 <b><i>How to use?</b></i>
-Simply download the zip, extract, run <b>TikTokBlaster V1.2.5.exe</b> and follow the prompts. the program is executed in 4 simple steps:
+Simply download the zip, extract, run <b>TikTokBlaster V1.2.5.exe</b> as administrator and follow the prompts. the program is executed in 4 simple steps:
 1. Enter password
 
 2. Agree to the disclaimer
