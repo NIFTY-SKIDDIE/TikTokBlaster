@@ -1,4 +1,4 @@
-<b>-REQUIREMENTS- </b>
+💢 <b>-REQUIREMENTS- </b>
 
 ➤ Python 3 <br>
 
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<b>-FEATURES-</b>
+✨ <b>-FEATURES-</b>
 
 ➤ Simple, Intuitive. no prerequisites to set up. no over-complicated nonsense. <br>
 
@@ -15,11 +15,11 @@
 ➤ Up to 200 reports a minute! <br>
 <bR>
 
-<b>-MODES- </b>
+⚙️ <b>-MODES- </b>
 
-➤ "Turbo" Mode: Will flood the requests at maximum speed (Average ~200+ reports a minute)
+➤ 🚀 "Turbo" Mode: Will flood the requests at maximum speed (Average ~200+ reports a minute)
 
-➤ "Ghost" Mode: Will generate random wait intervals in between each request (Average ~20+ reports a minute)
+➤ 👻 "Ghost" Mode: Will generate random wait intervals in between each request (Average ~20+ reports a minute)
 
 <img src="https://i.ibb.co/nfZ84Rz/0001.png" alt="0001" border="0"></a>
 
