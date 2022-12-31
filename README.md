@@ -1,5 +1,14 @@
 # <b> ╸𝐓𝐢𝐤𝐓𝐨𝐤 𝐁𝐥𝐚𝐬𝐭𝐞𝐫 𝐕𝟏.𝟐.𝟓 ╸</b>  
+<p>
+
+##  What does this program do?
+Continously sends reports in attempt to trick the TikTok algorithm into taking down the account being reported
+
+## Why?
+Maybe you're a parent who wants their child's account taken down and TikTok isn't giving prompt support. Maybe you're a vigilante who wants to speed up the process of taking down content that evidently violates the TikTok community guidelines policy. regardless of what you decide to do with this program, by downloading and running the program, you agree to take full liability of the consequences of your actions. in other words, use at your own peril.
 <br>
+<br>
+
 
 💢 <b>-REQUIREMENTS- </b>
 
