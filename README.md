@@ -45,3 +45,10 @@ Simply download the zip, extract, run <b>TikTokBlaster V1.2.5.exe</b> as adminis
 3. Choose mode
 
 4. Enter the HTTP request URL and off you go
+<br>
+
+<b>PRO TIPS:</b>
+1. Use a VPN. Change servers in-between runs.
+2. Experiemnt with both modes. In some cases, one may work better than the other.
+3. Get the HTTP request URL from different browsers to mix fingerprints.
+4. Run multiple instances simultaneously with different report categories.
