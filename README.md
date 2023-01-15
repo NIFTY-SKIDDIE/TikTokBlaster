@@ -34,8 +34,6 @@ Maybe you're a parent who wants their child's account taken down and TikTok isn'
 ➤ 👻 "Ghost" Mode: Will generate random wait intervals in between each request (Average ~20+ reports a minute)
 
 <img src="https://i.ibb.co/nfZ84Rz/0001.png" alt="0001" border="0"></a>
-
-
 <b><i>How to use?</b></i>
 Simply download the zip, extract, run <b>TikTokBlaster V1.2.5.exe</b> as administrator and follow the prompts. the program is executed in 4 simple steps:
 1. Enter password
@@ -45,6 +43,9 @@ Simply download the zip, extract, run <b>TikTokBlaster V1.2.5.exe</b> as adminis
 3. Choose mode
 
 4. Enter the HTTP request URL and off you go
+
+Upon success, the account reported will end up like this:
+<img src="https://i.ibb.co/mG703cQ/tiktok1.png" alt="TikTok Blaster" border="0"></a>
 <br>
 
 <b>PRO TIPS:</b>
