@@ -2,10 +2,10 @@
 <p>
 
 ##  What does this program do?
-Continously sends reports in attempt to trick the TikTok algorithm into taking down the account being reported
+Continuously sends reports in an attempt to trick the TikTok algorithm into taking down the account being reported
 
 ## Why?
-Maybe you're a parent who wants their child's account taken down and TikTok isn't giving prompt support. Maybe you're a vigilante who wants to speed up the process of taking down content that evidently violates the TikTok community guidelines policy. regardless of what you decide to do with this program, by downloading and running the program, you agree to take full liability of the consequences of your actions. in other words, use at your own peril.
+Maybe you're a parent who wants their child's account taken down and TikTok isn't giving prompt support. Maybe you're a vigilante wanting to speed up the process of taking down content that violates the TikTok community guidelines policy. regardless of what you decide to do with this program, You agree to take full liability for the consequences of your actions by downloading and running the program. In other words, use at your own peril.
 <br>
 <br>
 
